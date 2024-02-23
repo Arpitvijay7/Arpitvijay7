@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Vijay Vergiya</h1>
-<h3 align="center">As a seasoned MERN stack developer, I bring a wealth of experience in crafting intuitive and visually captivating web applications. Proficient in frontend technologies like React.js, Next.js, and TypeScript, I specialize in delivering user-centric designs guided by a deep understanding of UI/UX principles. With a solid background in backend development using Node.js, Express.js, and MongoDB, I excel in seamlessly integrating robust backend functionalities. Committed to continuous learning and staying abreast of industry trends, I am poised to deliver innovative solutions that exceed expectations.</h3>
+<h3 align="center">As a seasoned MERN stack developer, I bring a wealth of experience in crafting intuitive and visually captivating web applications. Proficient in frontend technologies like React.js, Next.js, and TypeScript, I specialize in delivering user-centric designs guided by a deep understanding of UI/UX principles. With a solid background in backend development using Node.js, Express.js, and MongoDB, I excel in seamlessly integrating robust backend functionalities. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitvijay7&label=Profile%20views&color=0e75b6&style=flat" alt="arpitvijay7" /> </p>
